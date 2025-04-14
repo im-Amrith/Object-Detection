@@ -5,6 +5,8 @@ A real-time object detection system using YOLOv8 to identify and track vehicles,
 - Traffic light color detection
 - Statistical analysis of detected objects
 
+> **Note**: Full IEEE format documentation is available in [object_detection_ieee_paper.md](object_detection_ieee_paper.md)
+
 ## Features
 
 - **Real-time Object Detection**: Identifies vehicles, people, and traffic lights
@@ -77,6 +79,7 @@ The system uses a deep learning-based approach for object detection:
 - `utils/object_detector.py`: Object detection implementation
 - `utils/config.py`: Configuration settings
 - `requirements.txt`: Required Python packages
+- `object_detection_ieee_paper.md`: IEEE format documentation
 
 ## Examples
 
